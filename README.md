@@ -58,6 +58,7 @@ X = prepare_data(df_test)           # defined in notebook.ipynb
 y_pred = model.predict(X)
 ```
 
-## Author
+## Authors
 
-Eliran Levi
+- Eliran Levi
+- Mali Bigel
